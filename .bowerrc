@@ -1,0 +1,5 @@
+{
+	"proxy":"http://10.0.4.137:8080",
+	"https-proxy":"http://10.0.4.137:8080",
+	"directory": "app/lib"
+}

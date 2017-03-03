@@ -1,0 +1,23 @@
+{
+  "name": "prueba bower",
+  "authors": [
+    "Julio Izquierdo <juedizor@gmail.com>"
+  ],
+  "description": "instalacion de node y uso de bower para descarga de paquetes",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.2"
+  },
+  "overrides":{
+    "bootstrap" : {
+         "main": [
+            "less/bootstrap.less",
+            "dist/css/bootstrap.css",
+            "dist/js/bootstrap.js"
+          ]
+    }
+  }
+}

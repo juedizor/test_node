@@ -1,0 +1,32 @@
+{
+  "name": "test_node",
+  "version": "1.0.0",
+  "description": "Prueba nodejs, grunt y gulp",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "julio izquierdo",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^3.3.4",
+    "connect-history-api-fallback": "^1.3.0",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-if": "^2.0.2",
+    "gulp-inject": "^1.5.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-server-livereload": "^1.9.2",
+    "gulp-stylus": "^2.6.0",
+    "gulp-uglify": "^2.0.1",
+    "gulp-useref": "^3.1.2",
+    "gulp-webserver": "^0.9.1",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1",
+    "nib": "^1.1.2",
+    "opn": "^4.0.2",
+    "wiredep": "^3.0.0"
+  }
+}
